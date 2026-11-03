@@ -1,0 +1,12 @@
+
+node_modules/
+dist/
+.android-tools/
+android/local.properties
+*.tsbuildinfo
+
+*.apk
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/

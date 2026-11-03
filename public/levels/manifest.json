@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "title": "湖畔柠檬树",
+    "image": "/levels/level-01.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 2,
+    "title": "港湾彩色小镇",
+    "image": "/levels/level-02.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 3,
+    "title": "郁金香风车",
+    "image": "/levels/level-03.jpg",
+    "source": "individually generated, hand-painted",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 4,
+    "title": "午睡的猫与狗",
+    "image": "/levels/level-04.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 5,
+    "title": "蓝色维多利亚住宅",
+    "image": "/levels/level-05.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 6,
+    "title": "鲜花与粉色打字机",
+    "image": "/levels/level-06.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 7,
+    "title": "水果花店",
+    "image": "/levels/level-07.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 8,
+    "title": "湖畔红色独木舟",
+    "image": "/levels/level-08.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 9,
+    "title": "下午茶",
+    "image": "/levels/level-09.jpg",
+    "source": "individually generated, hand-painted",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 10,
+    "title": "书店橱窗",
+    "image": "/levels/level-10.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 11,
+    "title": "向日葵自行车",
+    "image": "/levels/level-11.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 12,
+    "title": "乡村拼布",
+    "image": "/levels/level-12.jpg",
+    "source": "individually generated, hand-painted",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 13,
+    "title": "海边灯塔",
+    "image": "/levels/level-13.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 14,
+    "title": "鲜花市场",
+    "image": "/levels/level-14.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 15,
+    "title": "田园餐桌",
+    "image": "/levels/level-15.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 16,
+    "title": "圣诞客厅",
+    "image": "/levels/level-16.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 17,
+    "title": "雪夜街景",
+    "image": "/levels/level-17.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 18,
+    "title": "春日野餐",
+    "image": "/levels/level-18.jpg",
+    "source": "individually generated, hand-painted",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 19,
+    "title": "古典图书馆",
+    "image": "/levels/level-19.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 20,
+    "title": "落日海崖",
+    "image": "/levels/level-20.jpg",
+    "source": "user-provided photograph",
+    "aspectRatio": "1002:1500"
+  },
+  {
+    "id": 21,
+    "title": "蓝窗乡间小屋",
+    "image": "/levels/level-21.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 22,
+    "title": "薰衣草田",
+    "image": "/levels/level-22.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 23,
+    "title": "威尼斯运河",
+    "image": "/levels/level-23.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 24,
+    "title": "极光雪山",
+    "image": "/levels/level-24.jpg",
+    "source": "individually generated, hand-painted",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 25,
+    "title": "湖边城堡",
+    "image": "/levels/level-25.jpg",
+    "source": "individually generated, photographic style",
+    "aspectRatio": "3:4"
+  },
+  {
+    "id": 26,
+    "title": "海岸彩色小镇",
+    "image": "/levels/level-26.jpg",
+    "source": "generated montage, portrait adaptation",
+    "aspectRatio": "3:4"
+  }
+]

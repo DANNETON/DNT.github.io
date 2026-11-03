@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "黑沙海浪",
+    "style": "原图",
+    "width": 1280,
+    "height": 1600,
+    "image": "/levels/cool/level-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "列车窗花",
+    "style": "原图",
+    "width": 500,
+    "height": 333,
+    "image": "/levels/cool/level-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "蓝瓷与水影",
+    "style": "手绘",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "冰湾小艇",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-04.jpg"
+  },
+  {
+    "id": 5,
+    "title": "雾中杉林",
+    "style": "原图",
+    "width": 500,
+    "height": 625,
+    "image": "/levels/cool/level-05.jpg"
+  },
+  {
+    "id": 6,
+    "title": "雨中车窗",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-06.jpg"
+  },
+  {
+    "id": 7,
+    "title": "月下雪坡",
+    "style": "手绘",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-07.jpg"
+  },
+  {
+    "id": 8,
+    "title": "峡谷海流",
+    "style": "原图",
+    "width": 540,
+    "height": 810,
+    "image": "/levels/cool/level-08.jpg"
+  },
+  {
+    "id": 9,
+    "title": "潮池白羽",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-09.jpg"
+  },
+  {
+    "id": 10,
+    "title": "青墙信箱",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "雾港尖塔",
+    "style": "原图",
+    "width": 1080,
+    "height": 1349,
+    "image": "/levels/cool/level-11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "林间白桦",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "冬日茶盏",
+    "style": "手绘",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-13.jpg"
+  },
+  {
+    "id": 14,
+    "title": "冰河弯道",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-14.jpg"
+  },
+  {
+    "id": 15,
+    "title": "山谷雏菊",
+    "style": "原图",
+    "width": 1001,
+    "height": 1500,
+    "image": "/levels/cool/level-15.jpg"
+  },
+  {
+    "id": 16,
+    "title": "白鹭浅滩",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-16.jpg"
+  },
+  {
+    "id": 17,
+    "title": "青石阶",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-17.jpg"
+  },
+  {
+    "id": 18,
+    "title": "雨伞与月台",
+    "style": "手绘",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-18.jpg"
+  },
+  {
+    "id": 19,
+    "title": "星夜孤岩",
+    "style": "原图",
+    "width": 1275,
+    "height": 1920,
+    "image": "/levels/cool/level-19.jpg"
+  },
+  {
+    "id": 20,
+    "title": "峡湾渔港",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-20.jpg"
+  },
+  {
+    "id": 21,
+    "title": "雪原木屋",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-21.jpg"
+  },
+  {
+    "id": 22,
+    "title": "一枝银叶",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-22.jpg"
+  },
+  {
+    "id": 23,
+    "title": "冷月拱桥",
+    "style": "手绘",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-23.jpg"
+  },
+  {
+    "id": 24,
+    "title": "冰川裂谷",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-24.jpg"
+  },
+  {
+    "id": 25,
+    "title": "雾港渡轮",
+    "style": "照片风",
+    "width": 1024,
+    "height": 1536,
+    "image": "/levels/cool/level-25.jpg"
+  }
+]

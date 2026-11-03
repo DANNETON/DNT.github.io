@@ -44,7 +44,7 @@ export default function HomeChapter({ cool, order, chapter, completed, pending, 
             onClick={()=>setFlipping(current=>current.includes(id)?current:[...current,id])}
             onAnimationEnd={event=>{if(event.target===event.currentTarget)setFlipping(current=>current.filter(value=>value!==id))}}>
           <span className={`collection-piece ${animatedTiles.includes(id) ? 'arriving' : ''} ${goldLevels.includes(id + 1) ? 'gold' : ''}`}
-            style={cool ? {backgroundImage: "url('/levels/cool/level-08.jpg')", backgroundSize:'500% 500%', backgroundPosition:(column*25)+'% '+(row*25)+'%'} : { backgroundPosition: `-${19.5 + column * 12.2}cqw calc(-31.3dvh - ${14 + row * 12.2}cqw)` }} /><span className="collection-back" aria-hidden="true"/></button>
+            style={cool ? {backgroundImage: "url('./levels/cool/level-08.jpg')", backgroundSize:'500% 500%', backgroundPosition:(column*25)+'% '+(row*25)+'%'} : { backgroundPosition: `-${19.5 + column * 12.2}cqw calc(-31.3dvh - ${14 + row * 12.2}cqw)` }} /><span className="collection-back" aria-hidden="true"/></button>
         }</div>;
       })}
       <div className="collection-sheen" aria-hidden="true"><i/></div>

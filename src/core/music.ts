@@ -36,7 +36,7 @@ export class ZenMusic {
   const ctx=new Ctx();this.ctx=ctx;const master=ctx.createGain();this.master=master;master.gain.value=this.volume*.18;master.connect(ctx.destination);
   if (this.track !== 'zen') {
    try {
-    const url = '/music/' + this.track + '.wav';
+    const url = './music/' + this.track + '.wav';
     await ctx.resume();
     if (ctx !== this.ctx) return;
     const response = await fetch(url);
